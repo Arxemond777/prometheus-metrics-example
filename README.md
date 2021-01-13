@@ -2,7 +2,7 @@
 https://prometheus.io/docs/concepts/metric_types/
 
 ## see
-example.APIController.APIController
+example.APIController.APIController  
 example.APIController.foo
 
 ## all metrics are available by the link
