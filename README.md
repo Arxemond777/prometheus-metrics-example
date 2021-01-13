@@ -28,6 +28,6 @@ curl http://localhost:8080/actuator/prometheus;
 
 ```
 3) 
-ctl+f -> metrics_example_SUCCESS_total
-ctl+f -> metrics_example_WARNING_total
-ctl+f -> metrics_example_ERROR_total
+ctl+f -> metrics_example_SUCCESS_total  
+ctl+f -> metrics_example_WARNING_total  
+ctl+f -> metrics_example_ERROR_total  
